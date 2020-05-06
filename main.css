@@ -19,11 +19,11 @@ div {
 }
 
 #Yellow {
-  border-top-color: #f00;
+  border-top-color: #ff0;
 }
 
 #Green {
-  border-top-color: #ffa500;
+  border-top-color: #00bc3f;
 }
 
 #Blue {
@@ -31,9 +31,9 @@ div {
 }
 
 #indigo {
-  border-top-color: #f00;
+  border-top-color: #8a2be2;
 }
 
 #Violet {
-  border-top-color: #ffa500;
+  border-top-color: #d300c9;
 }
